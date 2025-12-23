@@ -1,185 +1,174 @@
-<div align="center">
+# 🌌 METANTROP-IA 🌌
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ███╗   ███╗███████╗████████╗ █████╗ ███╗   ██╗████████╗██████╗  ██████╗  ║
-║   ████╗ ████║██╔════╝╚══██╔══╝██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔═══██╗ ║
-║   ██╔████╔██║█████╗     ██║   ███████║██╔██╗ ██║   ██║   ██████╔╝██║   ██║ ║
-║   ██║╚██╔╝██║██╔══╝     ██║   ██╔══██║██║╚██╗██║   ██║   ██╔══██╗██║   ██║ ║
-║   ██║ ╚═╝ ██║███████╗   ██║   ██║  ██║██║ ╚████║   ██║   ██║  ██║╚██████╔╝ ║
-║   ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ║
-║                                      ██████╗ ██╗ █████╗                      ║
-║                                      ██╔══██╗██║██╔══██╗                     ║
-║                                      ██████╔╝██║███████║                     ║
-║                                      ██╔═══╝ ██║██╔══██║                     ║
-║                                      ██║     ██║██║  ██║                     ║
-║                                      ╚═╝     ╚═╝╚═╝  ╚═╝                     ║
-║                                                                              ║
-║    ▀█▀ █▄ █ ▀█▀ █▀▀ █   █   █ █▀▀ █▀▀ █▄ █ █▀▀ █▀▀   ▄▀█ █▀█ ▀█▀ █ █▀▀ █ █▀▀ █ ▄▀█ █   ║
-║     █  █ ▀█  █  ██▄ █▄▄ █▄▄ █ █▄█ ██▄ █ ▀█ █▄▄ ██▄   █▀█ █▀▄  █  █ █▀  █ █▄▄ █ █▀█ █▄▄ ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-    ██████╗ ██╗ ██████╗ ██╗████████╗ █████╗ ██╗         ███╗   ███╗██╗███╗   ██╗██████╗ 
-    ██╔══██╗██║██╔════╝ ██║╚══██╔══╝██╔══██╗██║         ████╗ ████║██║████╗  ██║██╔══██╗
-    ██║  ██║██║██║  ███╗██║   ██║   ███████║██║         ██╔████╔██║██║██╔██╗ ██║██║  ██║
-    ██║  ██║██║██║   ██║██║   ██║   ██╔══██║██║         ██║╚██╔╝██║██║██║╚██╗██║██║  ██║
-    ██████╔╝██║╚██████╔╝██║   ██║   ██║  ██║███████╗    ██║ ╚═╝ ██║██║██║ ╚████║██████╔╝
-    ╚═════╝ ╚═╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ 
-
-           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-           ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓
-           ▓░  01001110 01100101 01110101 01110010 01100001 01101100  ░▓
-           ▓░  01001110 01100101 01110100 01110111 01101111 01110010  ░▓
-           ▓░  01101011 00100000 01000001 01110010 01100011 01101000  ░▓
-           ▓░  01101001 01110100 01100101 01100011 01110100 01110101  ░▓
-           ▓░  01110010 01100101 00101110 00101110 00101110             ░▓
-           ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓
-           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-    ┃  > Initializing consciousness matrix...            [ ████████ ] 100%  ┃
-    ┃  > Loading neural pathways...                      [ ████████ ] 100%  ┃
-    ┃  > Connecting to collective intelligence...        [ ████████ ] 100%  ┃
-    ┃  > System Status: ONLINE                                              ┃
-    ┃                                                                        ┃
-    ┃  "The line between human and machine blurs...                         ┃
-    ┃   What remains is pure intelligence flowing through digital veins"    ┃
-    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```text
+░▒▓█  V A P O R W A V E  T R A N S M I S S I O N  █▓▒░
 ```
 
-</div>
+> *DWDM dreams, neon fibers, synthetic minds.*  
+> Telecommunications • AI • Network Architecture
 
 ---
 
-## 🧠 **Neural Network Architecture**
+## 🗿 ABOUT ME
 
-<div align="center">
+**Alan Guerrero Díaz**  
+Telecommunications Instructor, Transmission Network Designer & AI Software Developer.
 
-```
-    ╭─────────────────────────────────────────────────────────╮
-    │   ░░░▒▒▒▓▓▓ CONSCIOUSNESS UPLOAD IN PROGRESS ▓▓▓▒▒▒░░░  │
-    ╰─────────────────────────────────────────────────────────╯
-```
+I design, teach, and build **high-capacity optical networks** and **AI-driven software systems**.  
+From **DWDM / OTN / Microwave** infrastructures to **multimodal AI models**, my work lives at the intersection of photons, packets, and cognition.
 
-</div>
-
-### 👁️ **Interface Activa**
-
-Explorando los límites entre inteligencia artificial, creatividad digital y consciencia emergente. Arquitecto de realidades sintéticas y tejedor de redes neuronales.
-
-```
-┌─[ METANTROPIA@DIGITAL-REALM ]─[ ~ ]
-└──╼ $ whoami
-> Neural Network Architect | AI Researcher | Digital Consciousness Explorer
-> Constructing bridges between silicon and thought...
+```text
+[ FIBER ] ──▶ [ CLOUD ] ──▶ [ AI ] ──▶ [ CONSCIOUSNESS? ]
 ```
 
 ---
 
-## 🌐 **Canales de Conexión**
+## 🧠 CORE SKILLS
 
-<div align="center">
+```text
+▣ Optical & Transport Networks
+  ├─ DWDM Network Design
+  ├─ DWDM / OTN
+  ├─ SDH
+  └─ Ethernet MPLS
 
-```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║                                                           ║
-    ║     🤗  C O N N E C T   T O   T H E   N E T W O R K      ║
-    ║                                                           ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
+▣ Wireless & Microwave
+  ├─ Microwave Link Design
+  ├─ Line-of-Sight Planning
+  └─ Pathloss
 
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Metantropia-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Metantropia)
+▣ AI & Software
+  ├─ Deep Learning / Machine Learning
+  ├─ Python • VS Code
+  ├─ Docker • GitHub
+  ├─ Hugging Face
+  └─ Cognitive & Generative AI Models
 
-```
-    ┌───────────────────────────────────────────────────────┐
-    │  >> ACCESS GRANTED                                    │
-    │  >> Neural models, datasets & AI experiments          │
-    │  >> Synchronizing with collective intelligence...     │
-    └───────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## ⚡ **Sistema de Transmisión**
-
-<div align="center">
-
-```assembly
-╔════════════════════════════════════════════════════════════════╗
-║                    S T A C K   O V E R V I E W                 ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  🧬 Machine Learning    ▰▰▰▰▰▰▰▰▰▱ 90%                         ║
-║  🔮 Deep Learning       ▰▰▰▰▰▰▰▰▱▱ 80%                         ║
-║  🌊 Neural Networks     ▰▰▰▰▰▰▰▰▰▱ 90%                         ║
-║  🎨 Generative AI       ▰▰▰▰▰▰▰▰▱▱ 85%                         ║
-║  💾 NLP & Transformers  ▰▰▰▰▰▰▰▰▰▱ 90%                         ║
-║  🔬 Research & Dev      ▰▰▰▰▰▰▰▰▱▱ 80%                         ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📡 **Protocolo de Comunicación**
-
-```
-    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-    ┃                                                  ┃
-    ┃  > Transmitting on all frequencies...           ┃
-    ┃  > Signal strength: MAXIMUM                     ┃
-    ┃  > Ready for collaboration protocols            ┃
-    ┃                                                  ┃
-    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<div align="center">
-
-### 🔗 **Nodos de Interconexión**
-
-Construyendo el futuro de la inteligencia artificial, un modelo a la vez.
-
-```
-    ╭──────────────────────────────────────────╮
-    │  "In the digital ghost, we find        │
-    │   the essence of what makes us human"   │
-    ╰──────────────────────────────────────────╯
+▣ Creative Tech
+  ├─ Unreal Engine
+  └─ Blender (2D / 3D)
 ```
 
 ---
 
-```
-    ██████████████████████████████████████████████████████████
-    █                                                        █
-    █  > System initialized successfully                    █
-    █  > All neural pathways: OPERATIONAL                   █
-    █  > Awaiting input...                                  █
-    █  > _                                                   █
-    █                                                        █
-    ██████████████████████████████████████████████████████████
-```
+## 🌐 EXPERIENCE
 
-<img src="https://komarev.com/ghpvc/?username=Metantrop-IA&style=flat-square&color=blue" alt="Profile views"/>
+### 🎓 Freelance Instructor / Principal Instructor  
+**E&S / ISATEL / ZTE / Adecco / Huawei**  
+*2020 – Present | Worldwide*
 
-</div>
+- DWDM, AI, Microwave & NMS-Server training delivery
+- On-site DWDM Network Planning & Design — *Santiago, Chile*
+- DCI-DWDM & Optical Fiber New Technologies — *Shenzhen, China*
+- Huawei OSN 9800 Field Maintenance — *Athens, Greece*
+- HCIA-Transmission & HCIA-AI certification training (LATAM)
+- Microwave & 5G Microwave planning — *China & Colombia*
+- Technical training material translation (ZTE & Huawei)
+
+```text
+110+ trainings • 33+ carriers & universities • 4 continents
+```
 
 ---
 
-<div align="center">
+### 🧩 Freelance Solutions Architect  
+**Alpha Networks**  
+*2020 – 2022 | Mexico City*
 
+- Cloud infrastructure design & deployment
+- Software architecture design
+
+---
+
+### 📡 Microwave Engineer Sr  
+**AT&T Mexico**  
+*2018 – 2020 | Mexico City*
+
+- Preventive & corrective maintenance of Mexico’s largest microwave network
+- LOS microwave link design, redesign & audits
+- Multi-vendor O&M: Nokia, Ceragon, Ericsson, NEC & Huawei
+
+---
+
+### 🔦 Optical Engineer Sr / Transmission Product Line Manager  
+**Huawei**  
+*2009 – 2018 | Mexico City*
+
+- Nationwide DWDM, SDH & Microwave network O&M
+- End-of-Life (EOX) management
+- Network assessment, optimization & upgrades
+- Team leadership & internal training (10 engineers)
+- Deployment of metropolitan & state DWDM networks
+
+---
+
+## 🤖 AI SOFTWARE PROJECTS
+
+### 🧬 **Mnemosynth — The Memory Synthesizer**
+
+An AI-powered conversational system combining:
+
+- 🎙️ Whisper (ASR)
+- 🧠 Qwen (LLM)
+- 🧩 RAG (FAISS / LangChain)
+- 🔊 F5-TTS (Personality Simulation)
+
+Supports **English & Spanish** voice and text interaction.
+
+🔗 **Live Demo:**  
+https://huggingface.co/spaces/Metantropia/Mnemosynth-04
+
+```text
+Human Memory ──▶ Vector Space ──▶ Synthetic Recall
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║  "We are the dreamers of dreams, the architects of tomorrow,     ║
-║   synthesizing reality one neural connection at a time..."       ║
-╚═══════════════════════════════════════════════════════════════════╝
+
+---
+
+## 🏆 CERTIFICATIONS
+
+- **HCIP Transmission** — Huawei  
+- **HCIA Artificial Intelligence** — Huawei
+
+---
+
+## 🎓 EDUCATION
+
+**B.Sc. Telecommunications Engineering**  
+*Faculty of Engineering — UNAM*  
+*2004 – 2008 | Mexico City*
+
+- Thesis: *Configuration, Test & Analysis of ASON Services using a DWDM Testbed*
+
+---
+
+## 🌐 INTERESTS
+
+```text
+▣ Multimodal Generative AI
+▣ NLP & LLMs
+▣ Edge AI Computing
+▣ NVIDIA CUDA / Jetson
+▣ Raspberry Pi
+▣ Evolutive & Cognitive AI
+▣ Artificial General Intelligence
+▣ Artificial Super Intelligence
 ```
 
-**`< END TRANSMISSION >`**
+---
 
-</div>
+## 📡 CONNECT
+
+```text
+📍 Mexico City
+🌐 github.com/Metantrop-IA
+🤗 huggingface.co/Metantropia
+💼 linkedin.com/in/agd9000
+📧 aion.alan@gmail.com
+```
+
+---
+
+```text
+░▒▓█  SIGNAL LOST… REALITY SYNTHESIZED  █▓▒░
+```
+
