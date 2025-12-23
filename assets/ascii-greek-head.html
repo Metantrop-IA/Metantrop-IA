@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASCII Greek Head - Vaporwave</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #0a0015 0%, #1a0033 50%, #0a0015 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: 'Courier New', monospace;
+            overflow: hidden;
+        }
+        
+        #container {
+            text-align: center;
+            position: relative;
+        }
+        
+        pre {
+            display: inline-block;
+            font-size: 12px;
+            line-height: 1.2;
+            margin: 0;
+            padding: 30px;
+            background: rgba(0, 0, 0, 0.5);
+            border: 2px solid #FF71CE;
+            border-radius: 10px;
+            box-shadow: 
+                0 0 20px rgba(255, 113, 206, 0.5),
+                0 0 40px rgba(1, 205, 254, 0.3),
+                0 0 60px rgba(185, 103, 255, 0.2),
+                inset 0 0 20px rgba(255, 113, 206, 0.1);
+            animation: borderGlow 3s ease-in-out infinite;
+        }
+        
+        @keyframes borderGlow {
+            0%, 100% { 
+                border-color: #FF71CE;
+                box-shadow: 
+                    0 0 20px rgba(255, 113, 206, 0.5),
+                    0 0 40px rgba(1, 205, 254, 0.3),
+                    0 0 60px rgba(185, 103, 255, 0.2);
+            }
+            33% { 
+                border-color: #01CDFE;
+                box-shadow: 
+                    0 0 20px rgba(1, 205, 254, 0.5),
+                    0 0 40px rgba(185, 103, 255, 0.3),
+                    0 0 60px rgba(255, 113, 206, 0.2);
+            }
+            66% { 
+                border-color: #B967FF;
+                box-shadow: 
+                    0 0 20px rgba(185, 103, 255, 0.5),
+                    0 0 40px rgba(255, 113, 206, 0.3),
+                    0 0 60px rgba(1, 205, 254, 0.2);
+            }
+        }
+        
+        .ascii-art {
+            background: linear-gradient(45deg, #FF71CE, #01CDFE, #B967FF, #FFFB96);
+            background-size: 400% 400%;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: gradientShift 8s ease infinite, textGlow 2s ease-in-out infinite;
+            text-shadow: none;
+            font-weight: bold;
+        }
+        
+        @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        
+        @keyframes textGlow {
+            0%, 100% { 
+                filter: drop-shadow(0 0 2px #FF71CE) drop-shadow(0 0 5px #01CDFE);
+            }
+            50% { 
+                filter: drop-shadow(0 0 5px #FF71CE) drop-shadow(0 0 10px #01CDFE);
+            }
+        }
+        
+        h1 {
+            color: #FF71CE;
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 20px;
+            text-shadow: 
+                0 0 10px #FF71CE,
+                0 0 20px #01CDFE,
+                0 0 30px #B967FF;
+            animation: titlePulse 3s ease-in-out infinite;
+            letter-spacing: 8px;
+        }
+        
+        @keyframes titlePulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+        
+        .info {
+            color: #01CDFE;
+            font-size: 14px;
+            margin-top: 20px;
+            text-shadow: 0 0 5px #01CDFE;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+        }
+        
+        #container {
+            animation: float 4s ease-in-out infinite;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>◆ ＧＲＥＥＫ ＨＥＡＤ ◆</h1>
+        <pre id="ascii-display" class="ascii-art"></pre>
+        <div class="info">═══ ＶＡＰＯＲＷＡＶＥ ＡＳＣＩＩ ═══</div>
+    </div>
+
+    <script>
+        // Different perspectives of the Greek head rotating
+        const frames = [
+            // Frame 1: Front view
+            `
+        ▄▄▄▄▄▄▄▄▄
+      ▄▀░░░░░░░░░▀▄
+    ▄▀░░░█████░░░░▀▄
+   █░░░███████░░░░░█
+  █░░░░███████░░░░░█
+  █░░░░░█████░░░░░░█
+  █░░░░░░███░░░░░░░█
+  █░▄▀▀░░░█░░░▀▀▄░░█
+  █░█░░░░░░░░░░░█░░█
+  █░░▀▄░░░█░░░▄▀░░░█
+  █░░░░▀▀███▀▀░░░░░█
+  ▀█░░░░░███░░░░░░█▀
+   ▀█░░░█████░░░░█▀
+    ▀▄░░░███░░░░▄▀
+     ▀▄░░░█░░░░▄▀
+      ▀▀▄░░░░▄▀▀
+        ▀▀▀▀▀
+            `,
+            // Frame 2: Slight right turn
+            `
+        ▄▄▄▄▄▄▄▄▄
+      ▄▀░░░░░░░░░▀▄
+    ▄▀░░░░████░░░░▀▄
+   █░░░░██████░░░░░█
+  █░░░░░██████░░░░░█
+  █░░░░░░████░░░░░░█
+  █░░░░░░░██░░░░░░░█
+  █░░▀▄░░░█░░░░░░░░█
+  █░░░█░░░░░░░░▄▀░░█
+  █░░░░▀▄░░█░░█░░░░█
+  █░░░░░░▀██▀░░░░░░█
+  ▀█░░░░░░██░░░░░░█▀
+   ▀█░░░░████░░░░█▀
+    ▀▄░░░░██░░░░▄▀
+     ▀▄░░░█░░░░▄▀
+      ▀▀▄░░░░▄▀▀
+        ▀▀▀▀▀
+            `,
+            // Frame 3: Right side view
+            `
+        ▄▄▄▄▄▄▄
+      ▄▀░░░░░░▀▄
+    ▄▀░░░███░░░▀▄
+   █░░░████░░░░░█
+  █░░░░████░░░░░█
+  █░░░░░██░░░░░░█
+  █░░░░░░█░░░░░░█
+  █░░░▄░░░░░░░░░█
+  █░░░█░░░░░░░░░█
+  █░░░░▀▄░░░░░░░█
+  █░░░░░░▀█▄░░░░█
+  ▀█░░░░░░░█░░░█▀
+   ▀█░░░░███░░█▀
+    ▀▄░░░██░░▄▀
+     ▀▄░░█░░▄▀
+      ▀▀▄░▄▀▀
+        ▀▀▀
+            `,
+            // Frame 4: Right side profile
+            `
+        ▄▄▄▄▄
+      ▄▀░░░▀▄
+    ▄▀░░██░░▀▄
+   █░░███░░░░█
+  █░░░██░░░░░█
+  █░░░░█░░░░░█
+  █░░░░░░░░░░█
+  █░▄░░░░░░░░█
+  █░█░░░░░░░░█
+  █░░▀▄░░░░░░█
+  █░░░░▀█░░░░█
+  ▀█░░░░█░░░█▀
+   ▀█░░██░░█▀
+    ▀▄░█░░▄▀
+     ▀▄█░▄▀
+      ▀▄▄▀
+       ▀
+            `,
+            // Frame 5: Back right
+            `
+        ▄▄▄▄▄
+      ▄▀░░░▀▄
+    ▄▀░░█░░░▀▄
+   █░░░█░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  ▀█░░░░░░░░█▀
+   ▀█░░░░░░█▀
+    ▀▄░░░░▄▀
+     ▀▄░░▄▀
+      ▀▄▄▀
+       ▀
+            `,
+            // Frame 6: Back view
+            `
+       ▄▄▄▄▄▄▄▄▄
+     ▄▀░░░░░░░░░▀▄
+   ▄▀░░░█████░░░░▀▄
+  █░░░░███████░░░░█
+ █░░░░░███████░░░░░█
+ █░░░░░░█████░░░░░░█
+ █░░░░░░░░█░░░░░░░░█
+ █░░░░░░░░░░░░░░░░░█
+ █░░░░░░░░░░░░░░░░░█
+ █░░░░░░░░░░░░░░░░░█
+ █░░░░░░░░░░░░░░░░░█
+ ▀█░░░░░░░░░░░░░░░█▀
+  ▀█░░░░░░░░░░░░░█▀
+   ▀▄░░░░░░░░░░░▄▀
+    ▀▄░░░░░░░░░▄▀
+     ▀▀▄░░░░▄▀▀
+       ▀▀▀▀▀
+            `,
+            // Frame 7: Back left
+            `
+        ▄▄▄▄▄
+      ▄▀░░░▀▄
+    ▄▀░░░█░░▀▄
+   █░░░░░█░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  █░░░░░░░░░░█
+  ▀█░░░░░░░░█▀
+   ▀█░░░░░░█▀
+    ▀▄░░░░▄▀
+     ▀▄░░▄▀
+      ▀▄▄▀
+       ▀
+            `,
+            // Frame 8: Left side profile
+            `
+         ▄▄▄▄▄
+       ▄▀░░░▀▄
+     ▄▀░░██░░▀▄
+    █░░░███░░░█
+   █░░░░██░░░░█
+   █░░░░█░░░░░█
+   █░░░░░░░░░░█
+   █░░░░░░░░▄░█
+   █░░░░░░░░█░█
+   █░░░░░░▄▀░░█
+   █░░░░█▀░░░░█
+   ▀█░░░█░░░░█▀
+    ▀█░░██░░█▀
+     ▀▄░░█░▄▀
+      ▀▄░█▄▀
+       ▀▄▄▀
+        ▀
+            `,
+            // Frame 9: Left side view
+            `
+         ▄▄▄▄▄▄▄
+       ▄▀░░░░░░▀▄
+     ▄▀░░░███░░░▀▄
+    █░░░░████░░░░█
+   █░░░░████░░░░░█
+   █░░░░░██░░░░░░█
+   █░░░░░█░░░░░░░█
+   █░░░░░░░░░░▄░░█
+   █░░░░░░░░░░█░░█
+   █░░░░░░░░▄▀░░░█
+   █░░░░░▄█▀░░░░░█
+   ▀█░░░█░░░░░░░█▀
+    ▀█░░███░░░░█▀
+     ▀▄░░██░░░▄▀
+      ▀▄░░█░░▄▀
+       ▀▀▄░▄▀▀
+         ▀▀▀
+            `,
+            // Frame 10: Slight left turn
+            `
+         ▄▄▄▄▄▄▄▄▄
+       ▄▀░░░░░░░░░▀▄
+     ▄▀░░░░████░░░░▀▄
+    █░░░░░██████░░░░█
+   █░░░░░░██████░░░░█
+   █░░░░░░░████░░░░░█
+   █░░░░░░░░██░░░░░░█
+   █░░░░░░░░█░░░▄▀░░█
+   █░░▀▄░░░░░░░█░░░░█
+   █░░░░█░░█░░▄▀░░░░█
+   █░░░░░░▀██▀░░░░░░█
+   ▀█░░░░░░██░░░░░░█▀
+    ▀█░░░░████░░░░█▀
+     ▀▄░░░░██░░░░▄▀
+      ▀▄░░░░█░░░▄▀
+       ▀▀▄░░░░▄▀▀
+         ▀▀▀▀▀
+            `,
+        ];
+
+        let currentFrame = 0;
+        const display = document.getElementById('ascii-display');
+
+        function rotateHead() {
+            display.textContent = frames[currentFrame];
+            currentFrame = (currentFrame + 1) % frames.length;
+        }
+
+        // Start the rotation
+        rotateHead();
+        setInterval(rotateHead, 300); // Change frame every 300ms
+    </script>
+</body>
+</html>
