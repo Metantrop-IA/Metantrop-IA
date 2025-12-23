@@ -12,12 +12,7 @@
 
 Design/Building/Testing of **AI-driven software systems**
 
----
 
-▣ Creative Tech & 3D Sofware
-  ├─ Unreal Engine
-  └─ Blender
-```
 ---
 
 ## 📡 CONNECT
