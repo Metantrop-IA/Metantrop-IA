@@ -14,16 +14,6 @@ Design/Building/Testing of **AI-driven software systems**
 
 ---
 
-## 🧠 CORE SKILLS
-
-```text
-▣ AI & Coding Software
-  ├─ Machine Learning / Deep Learning
-  ├─ Python • VS Code
-  ├─ Docker • GitHub
-  ├─ Hugging Face
-  └─ Generative AI Models
-
 ▣ Creative Tech & 3D Sofware
   ├─ Unreal Engine
   └─ Blender
