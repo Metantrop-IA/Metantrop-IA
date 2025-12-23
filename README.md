@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏛️ METANTROP-IA 🏛️
+# 🏛️ ΜΕΤΑΝΘΡΩΠ.ΙΑ 🏛️
 
 AI Software Development
 
