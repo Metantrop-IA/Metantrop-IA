@@ -18,7 +18,7 @@ I design, teach, and build **AI-driven software systems**
 
 ```text
 ▣ AI & Software
-  ├─ Deep Learning / Machine Learning
+  ├─ Machine Learning / Deep Learning
   ├─ Python • VS Code
   ├─ Docker • GitHub
   ├─ Hugging Face
@@ -28,23 +28,6 @@ I design, teach, and build **AI-driven software systems**
   ├─ Unreal Engine
   └─ Blender
 ```
-
----
-
-## 🌐 EXPERIENCE
-
-### 🎓 Freelance Instructor / Principal Instructor  
-**E&S / ISATEL / ZTE / Adecco / Huawei**  
-*2020 – Present | Worldwide*
-
-- AI & NMS-Server training delivery
-- HCIA-AI certification training (LATAM)
-- Technical training material translation (ZTE & Huawei)
-
-```text
-110+ trainings • 33+ carriers & universities • 4 continents
-```
-
 ---
 
 ## 📡 CONNECT
@@ -52,8 +35,6 @@ I design, teach, and build **AI-driven software systems**
 📍 Mexico City  
 🌐 [github.com/Metantrop-IA](https://github.com/Metantrop-IA)  
 🤗 [huggingface.co/Metantropia](https://huggingface.co/Metantropia)  
-💼 [linkedin.com/in/agd9000](https://linkedin.com/in/agd9000)  
-📧 [aion.alan@gmail.com](mailto:aion.alan@gmail.com)
 
 ---
 
