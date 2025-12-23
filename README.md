@@ -32,7 +32,6 @@ I design, teach, and build **AI-driven software systems**
 
 ## 📡 CONNECT
 
-📍 Mexico City  
 🌐 [github.com/Metantrop-IA](https://github.com/Metantrop-IA)  
 🤗 [huggingface.co/Metantropia](https://huggingface.co/Metantropia)  
 
