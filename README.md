@@ -4,21 +4,20 @@
 ░▒▓█  V A P O R W A V E  T R A N S M I S S I O N  █▓▒░
 ```
 
-> *DWDM dreams, neon fibers, synthetic minds.*  
-> Telecommunications • AI • Network Architecture
+> *Synthetic minds, neon code, AI dreams.*  
+> AI • Software Development • Network Architecture
 
 ---
 
 ## 🗿 ABOUT ME
 
 **Alan Guerrero Díaz**  
-Telecommunications Instructor, Transmission Network Designer & AI Software Developer.
+AI Software Developer & Instructor.
 
-I design, teach, and build **high-capacity optical networks** and **AI-driven software systems**.  
-From **DWDM / OTN / Microwave** infrastructures to **multimodal AI models**, my work lives at the intersection of photons, packets, and cognition.
+I design, teach, and build **AI-driven software systems** and **multimodal AI models**.
 
 ```text
-[ FIBER ] ──▶ [ CLOUD ] ──▶ [ AI ] ──▶ [ CONSCIOUSNESS? ]
+[ DATA ] ──▶ [ AI ] ──▶ [ CONSCIOUSNESS? ]
 ```
 
 ---
@@ -26,17 +25,6 @@ From **DWDM / OTN / Microwave** infrastructures to **multimodal AI models**, my 
 ## 🧠 CORE SKILLS
 
 ```text
-▣ Optical & Transport Networks
-  ├─ DWDM Network Design
-  ├─ DWDM / OTN
-  ├─ SDH
-  └─ Ethernet MPLS
-
-▣ Wireless & Microwave
-  ├─ Microwave Link Design
-  ├─ Line-of-Sight Planning
-  └─ Pathloss
-
 ▣ AI & Software
   ├─ Deep Learning / Machine Learning
   ├─ Python • VS Code
@@ -57,12 +45,8 @@ From **DWDM / OTN / Microwave** infrastructures to **multimodal AI models**, my 
 **E&S / ISATEL / ZTE / Adecco / Huawei**  
 *2020 – Present | Worldwide*
 
-- DWDM, AI, Microwave & NMS-Server training delivery
-- On-site DWDM Network Planning & Design — *Santiago, Chile*
-- DCI-DWDM & Optical Fiber New Technologies — *Shenzhen, China*
-- Huawei OSN 9800 Field Maintenance — *Athens, Greece*
-- HCIA-Transmission & HCIA-AI certification training (LATAM)
-- Microwave & 5G Microwave planning — *China & Colombia*
+- AI & NMS-Server training delivery
+- HCIA-AI certification training (LATAM)
 - Technical training material translation (ZTE & Huawei)
 
 ```text
@@ -78,30 +62,6 @@ From **DWDM / OTN / Microwave** infrastructures to **multimodal AI models**, my 
 - Cloud infrastructure design & deployment
 - Software architecture design
 
----
-
-### 📡 Microwave Engineer Sr  
-**AT&T Mexico**  
-*2018 – 2020 | Mexico City*
-
-- Preventive & corrective maintenance of Mexico’s largest microwave network
-- LOS microwave link design, redesign & audits
-- Multi-vendor O&M: Nokia, Ceragon, Ericsson, NEC & Huawei
-
----
-
-### 🔦 Optical Engineer Sr / Transmission Product Line Manager  
-**Huawei**  
-*2009 – 2018 | Mexico City*
-
-- Nationwide DWDM, SDH & Microwave network O&M
-- End-of-Life (EOX) management
-- Network assessment, optimization & upgrades
-- Team leadership & internal training (10 engineers)
-- Deployment of metropolitan & state DWDM networks
-
----
-
 ## 🤖 AI SOFTWARE PROJECTS
 
 ### 🧬 **Mnemosynth — The Memory Synthesizer**
@@ -116,7 +76,7 @@ An AI-powered conversational system combining:
 Supports **English & Spanish** voice and text interaction.
 
 🔗 **Live Demo:**  
-https://huggingface.co/spaces/Metantropia/Mnemosynth-04
+[https://huggingface.co/spaces/Metantropia/Mnemosynth-04](https://huggingface.co/spaces/Metantropia/Mnemosynth-04)
 
 ```text
 Human Memory ──▶ Vector Space ──▶ Synthetic Recall
@@ -126,7 +86,6 @@ Human Memory ──▶ Vector Space ──▶ Synthetic Recall
 
 ## 🏆 CERTIFICATIONS
 
-- **HCIP Transmission** — Huawei  
 - **HCIA Artificial Intelligence** — Huawei
 
 ---
@@ -136,8 +95,6 @@ Human Memory ──▶ Vector Space ──▶ Synthetic Recall
 **B.Sc. Telecommunications Engineering**  
 *Faculty of Engineering — UNAM*  
 *2004 – 2008 | Mexico City*
-
-- Thesis: *Configuration, Test & Analysis of ASON Services using a DWDM Testbed*
 
 ---
 
@@ -158,13 +115,11 @@ Human Memory ──▶ Vector Space ──▶ Synthetic Recall
 
 ## 📡 CONNECT
 
-```text
-📍 Mexico City
-🌐 github.com/Metantrop-IA
-🤗 huggingface.co/Metantropia
-💼 linkedin.com/in/agd9000
-📧 aion.alan@gmail.com
-```
+📍 Mexico City  
+🌐 [github.com/Metantrop-IA](https://github.com/Metantrop-IA)  
+🤗 [huggingface.co/Metantropia](https://huggingface.co/Metantropia)  
+💼 [linkedin.com/in/agd9000](https://linkedin.com/in/agd9000)  
+📧 [aion.alan@gmail.com](mailto:aion.alan@gmail.com)
 
 ---
 
