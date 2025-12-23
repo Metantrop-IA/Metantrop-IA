@@ -1,4 +1,4 @@
-# 🏛️ METANTROP-IA 🏛️
+# 🏛️ METANTROP-IA
 
 > AI • Software Development
 
