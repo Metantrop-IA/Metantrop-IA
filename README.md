@@ -1,23 +1,15 @@
 # 🌌 METANTROP-IA 🌌
 
-```text
-░▒▓█  V A P O R W A V E  T R A N S M I S S I O N  █▓▒░
-```
-
-> *Synthetic minds, neon code, AI dreams.*  
-> AI • Software Development • Network Architecture
+> AI • Software Development
 
 ---
 
 ## 🗿 ABOUT ME
 
-**Alan Guerrero Díaz**  
-AI Software Developer & Instructor.
-
-I design, teach, and build **AI-driven software systems** and **multimodal AI models**.
+I design, teach, and build **AI-driven software systems**
 
 ```text
-[ DATA ] ──▶ [ AI ] ──▶ [ CONSCIOUSNESS? ]
+[ Tx Networks ] ──▶ [ Neural Networks ] ──▶ [ Consciousness? ]
 ```
 
 ---
@@ -30,11 +22,11 @@ I design, teach, and build **AI-driven software systems** and **multimodal AI mo
   ├─ Python • VS Code
   ├─ Docker • GitHub
   ├─ Hugging Face
-  └─ Cognitive & Generative AI Models
+  └─ Generative AI Models
 
 ▣ Creative Tech
   ├─ Unreal Engine
-  └─ Blender (2D / 3D)
+  └─ Blender
 ```
 
 ---
@@ -55,64 +47,6 @@ I design, teach, and build **AI-driven software systems** and **multimodal AI mo
 
 ---
 
-### 🧩 Freelance Solutions Architect  
-**Alpha Networks**  
-*2020 – 2022 | Mexico City*
-
-- Cloud infrastructure design & deployment
-- Software architecture design
-
-## 🤖 AI SOFTWARE PROJECTS
-
-### 🧬 **Mnemosynth — The Memory Synthesizer**
-
-An AI-powered conversational system combining:
-
-- 🎙️ Whisper (ASR)
-- 🧠 Qwen (LLM)
-- 🧩 RAG (FAISS / LangChain)
-- 🔊 F5-TTS (Personality Simulation)
-
-Supports **English & Spanish** voice and text interaction.
-
-🔗 **Live Demo:**  
-[https://huggingface.co/spaces/Metantropia/Mnemosynth-04](https://huggingface.co/spaces/Metantropia/Mnemosynth-04)
-
-```text
-Human Memory ──▶ Vector Space ──▶ Synthetic Recall
-```
-
----
-
-## 🏆 CERTIFICATIONS
-
-- **HCIA Artificial Intelligence** — Huawei
-
----
-
-## 🎓 EDUCATION
-
-**B.Sc. Telecommunications Engineering**  
-*Faculty of Engineering — UNAM*  
-*2004 – 2008 | Mexico City*
-
----
-
-## 🌐 INTERESTS
-
-```text
-▣ Multimodal Generative AI
-▣ NLP & LLMs
-▣ Edge AI Computing
-▣ NVIDIA CUDA / Jetson
-▣ Raspberry Pi
-▣ Evolutive & Cognitive AI
-▣ Artificial General Intelligence
-▣ Artificial Super Intelligence
-```
-
----
-
 ## 📡 CONNECT
 
 📍 Mexico City  
@@ -122,8 +56,4 @@ Human Memory ──▶ Vector Space ──▶ Synthetic Recall
 📧 [aion.alan@gmail.com](mailto:aion.alan@gmail.com)
 
 ---
-
-```text
-░▒▓█  SIGNAL LOST… REALITY SYNTHESIZED  █▓▒░
-```
 
