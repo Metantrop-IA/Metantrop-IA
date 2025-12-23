@@ -6,25 +6,21 @@
 
 ## 🗿 ABOUT ME
 
-I design, teach, and build **AI-driven software systems**
-
-```text
-[ Tx Networks ] ──▶ [ Neural Networks ] ──▶ [ Consciousness? ]
-```
+Design/Building/Testing of **AI-driven software systems**
 
 ---
 
 ## 🧠 CORE SKILLS
 
 ```text
-▣ AI & Software
+▣ AI & Coding Software
   ├─ Machine Learning / Deep Learning
   ├─ Python • VS Code
   ├─ Docker • GitHub
   ├─ Hugging Face
   └─ Generative AI Models
 
-▣ Creative Tech
+▣ Creative Tech & 3D Sofware
   ├─ Unreal Engine
   └─ Blender
 ```
