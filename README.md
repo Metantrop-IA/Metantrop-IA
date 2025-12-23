@@ -4,6 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=METANTROP-IA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Artificial%20Intelligence%20•%20Vaporwave%20Aesthetics&descAlignY=55&descAlign=50" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/Metantrop-IA/Metantrop-IA/main/assets/vaporwave-statue.svg" width="200" alt="Vaporwave Statue"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FF71CE&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%E3%80%8C+%E2%9C%A8+Welcome+to+the+Digital+Dimension+%E2%9C%A8+%E3%80%8D;%F0%9F%8C%BA+Creating+AI+in+a+Neon+Dream+%F0%9F%8C%BA)](https://git.io/typing-svg)
 
 </div>
