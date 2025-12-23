@@ -2,7 +2,6 @@
 
 # 🏛️ METANTROP-IA 🏛️
 
-
 AI Software Development
 
 
@@ -10,5 +9,3 @@ AI Software Development
 
 
 ![Visitor Count](https://counter.seku.su/cmoe?name=Metantropia&theme=r34)
-
----
