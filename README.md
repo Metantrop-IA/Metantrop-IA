@@ -2,7 +2,7 @@
 
 # 🏛️ METANTROP-IA
 
-![Visitor Count](https://counter.seku.su/cmoe?name=Metantrop-IA)
+![Visitor Count](https://counter.seku.su/cmoe?name=Metantropia)
 
 > AI • Software Development
 
