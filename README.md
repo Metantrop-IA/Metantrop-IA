@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏛️ ΜΕΤΑΝΘΡΩΠ.ΙΑ 🏛️
+# 🏛️ ΜΕΤΑΝΘΡΩΠ-ΙΑ 🏛️
 
 AI Software Development
 
